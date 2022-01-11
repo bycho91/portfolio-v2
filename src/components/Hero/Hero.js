@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 import {
   Section,
@@ -19,7 +20,9 @@ const Hero = (props) => (
         I am a front-end web developer currently on a journey of learning new
         technologies. Come check out my latest projects!
       </SectionText>
-      <Button href="#projects">See Projects</Button>
+      <Link href="#projects">
+        <Button>See Projects</Button>
+      </Link>
     </LeftSection>
   </Section>
 );
