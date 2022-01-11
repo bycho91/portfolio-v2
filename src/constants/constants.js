@@ -28,6 +28,16 @@ export const projects = [
     visit: "http://openai-gpt3.xyz",
     id: 2,
   },
+  {
+    title: "CryptVerse",
+    description:
+      "A website containing information about cryptocurrencies and the latest news. Using the Coinrank API and Bing Search API",
+    image: "/images/crypto.png",
+    tags: ["React", "CSS", "Redux", "API"],
+    source: "https://github.com/bycho91/cryptverse",
+    visit: "http://cryptverse.xyz",
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
