@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Travel Advisor",
     description:
-      "Users are able to search for locations using the search bar at the top in order to see what restaurants, hotels, and attractions are in that area. User can also filter the results by rating and type.",
+      "Users are able to find nearby restaurants, hotels, and attractions. Search function will change the coordinates. Note: API may have reached 100% usage rate.",
     image: "/images/travel.png",
     tags: ["React", "API", "HTML", "CSS", "MUI"],
     source: "https://github.com/bycho91/TravelPlanz-website",
@@ -21,7 +21,7 @@ export const projects = [
   },
   {
     title: "OpenAI GPT-3",
-    description: "Mockup of a website designed by AR Shakir.",
+    description: "Mockup of a website designed by AR Shakir. Note: No functionality within the site.",
     image: "/images/gpt3.png",
     tags: ["React", "CSS", "JSX"],
     source: "https://github.com/bycho91/GPT3-mock-website",
