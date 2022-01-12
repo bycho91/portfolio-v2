@@ -35,7 +35,7 @@ export const projects = [
     image: "/images/crypto.png",
     tags: ["React", "CSS", "Redux", "API"],
     source: "https://github.com/bycho91/crypto-v2",
-    visit: "http://bencryptoverse.netlify.app",
+    visit: "http://cryptverse.xyz",
     id: 3,
   },
 ];
