@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Travel Advisor",
+    title: "Travel Planning App",
     description:
       "Users are able to find nearby restaurants, hotels, and attractions. Search function will change the coordinates. Note: API may have reached 100% usage rate.",
     image: "/images/travel.png",
@@ -20,7 +20,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: "OpenAI GPT-3",
+    title: "OpenAI (Design Mockup)",
     description: "Mockup of a website designed by AR Shakir. Note: No functionality within the site.",
     image: "/images/gpt3.png",
     tags: ["React", "CSS", "JSX"],
@@ -29,7 +29,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Crypto App",
+    title: "Crypto Info App",
     description:
       "A website containing information about cryptocurrencies and the latest news. Fetches data using the Coinrank API and Bing Search API",
     image: "/images/crypto.png",
@@ -39,9 +39,9 @@ export const projects = [
     id: 3,
   },
     {
-    title: "BenJ Ecommerce",
+    title: "BenJ Store",
     description:
-      "Soon to be a full-stack ",
+      "Soon to be a full-stack website that connects to stripe for payment.",
     image: "/images/benj.png",
     tags: ["React", "Styled Components", "NodeJS"],
     source: "https://github.com/bycho91/benj-ecommerce.git",
