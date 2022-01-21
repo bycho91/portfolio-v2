@@ -49,7 +49,7 @@ export const projects = [
     id: 4,
   },
   {
-    title: "Pure CSS Gameboy Color",
+    title: "CSS Gameboy Color",
     description:
       "This is just a fun project I did using minimal HTML and pure CSS to learn more about positioning.",
     image: "/images/gameboy.png",
