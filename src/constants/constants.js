@@ -38,7 +38,7 @@ export const projects = [
     visit: "http://cryptverse.xyz",
     id: 3,
   },
-    {
+  {
     title: "BenJ Store",
     description:
       "Soon to be a full-stack website that connects to stripe for payment.",
@@ -47,6 +47,16 @@ export const projects = [
     source: "https://github.com/bycho91/benj-ecommerce.git",
     visit: "http://benjstore.xyz",
     id: 4,
+  },
+  {
+    title: "Pure CSS Gameboy Color",
+    description:
+      "This is just a fun project I did using minimal HTML and pure CSS to learn more about positioning.",
+    image: "/images/gameboy.png",
+    tags: ["HTML", "SCSS", "Codepen"],
+    source: "https://codepen.io/bycho91/pen/JjRgyZe",
+    visit: "https://codepen.io/bycho91/pen/JjRgyZe",
+    id: 5,
   },
 ];
 
