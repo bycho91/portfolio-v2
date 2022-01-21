@@ -38,6 +38,16 @@ export const projects = [
     visit: "http://cryptverse.xyz",
     id: 3,
   },
+    {
+    title: "BenJ Ecommerce",
+    description:
+      "Soon to be a full-stack ",
+    image: "/images/benj.png",
+    tags: ["React", "Styled Components", "NodeJS"],
+    source: "https://github.com/bycho91/benj-ecommerce.git",
+    visit: "http://benjstore.xyz",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
