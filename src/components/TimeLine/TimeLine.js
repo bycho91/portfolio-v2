@@ -69,8 +69,7 @@ const Timeline = () => {
       <SectionTitle main>About Me</SectionTitle>
       <SectionText>
         I found the passion for coding during my studies in graduate school.
-        Although a little late, I'm confident in my ability to self-teach and
-        ultimately become a career web developer.
+        Although I may not be as experienced, I am confident in my ability and willingness to learn new technologies.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
