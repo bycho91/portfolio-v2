@@ -45,7 +45,7 @@ export const projects = [
     image: "/images/benj.png",
     tags: ["React", "Styled Components", "NodeJS"],
     source: "https://github.com/bycho91/benj-ecommerce.git",
-    visit: "http://benjstore.xyz",
+    visit: "https://benjstore.netlify.app",
     id: 4,
   },
   {
