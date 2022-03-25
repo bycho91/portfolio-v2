@@ -1,14 +1,15 @@
 export const projects = [
   {
-    title: "Travel Planning App",
+    title: "Budgety",
     description:
-      "Users are able to find nearby restaurants, hotels, and attractions. Search function will change the coordinates. Note: API may have reached 100% usage rate.",
-    image: "/images/travel.png",
-    tags: ["React", "API", "HTML", "CSS", "MUI"],
-    source: "https://github.com/bycho91/TravelPlanz-website",
-    visit: "http://travelplanz.xyz/",
+      "Full stack web app built out in a team of 3. User has access to authentication signup/login, and is able to create, read, update, and delete budgets/transactions.",
+    image: "/images/budgety.png",
+    tags: ["React", "Typescript", "Nest", "Styled Components", "React Query"],
+    source: "https://github.com/bretpeters3n/seal-team-3",
+    visit: "https://budgety-front.uc.r.appspot.com/",
     id: 0,
   },
+
   {
     title: "Tip Calculator",
     description:
@@ -21,7 +22,8 @@ export const projects = [
   },
   {
     title: "OpenAI (Design Mockup)",
-    description: "Mockup of a website designed by AR Shakir. Note: No functionality within the site.",
+    description:
+      "Mockup of a website designed by AR Shakir. Note: No functionality within the site.",
     image: "/images/gpt3.png",
     tags: ["React", "CSS", "JSX"],
     source: "https://github.com/bycho91/GPT3-mock-website",
@@ -57,6 +59,16 @@ export const projects = [
     source: "https://codepen.io/bycho91/pen/JjRgyZe",
     visit: "https://codepen.io/bycho91/pen/JjRgyZe",
     id: 5,
+  },
+  {
+    title: "Travel Planning App",
+    description:
+      "Users are able to find nearby restaurants, hotels, and attractions. Search function will change the coordinates. Note: API may have reached 100% usage rate.",
+    image: "/images/travel.png",
+    tags: ["React", "API", "HTML", "CSS", "MUI"],
+    source: "https://github.com/bycho91/TravelPlanz-website",
+    visit: "http://travelplanz.xyz/",
+    id: 6,
   },
 ];
 
