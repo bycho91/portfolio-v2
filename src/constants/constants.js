@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Full stack web app built out in a team of 3. User has access to authentication signup/login. User is also able to create, read, update, and delete budgets/transactions.",
     image: "/images/budgety.png",
-    tags: ["React", "Typescript", "Nest", "Styled Components", "React Query"],
+    tags: ["React", "Typescript", "Nest", "React Query"],
     source: "https://github.com/bretpeters3n/seal-team-3",
     visit: "https://budgety-front.uc.r.appspot.com/",
     id: 0,
@@ -21,6 +21,16 @@ export const projects = [
     id: 1,
   },
   {
+    title: "CryptVerse",
+    description:
+      "A website containing information about cryptocurrencies and the latest news. Fetches data using the Coinrank API and Bing Search API",
+    image: "/images/crypto.png",
+    tags: ["React", "SCSS", "React Query", "API"],
+    source: "https://github.com/bycho91/crypto-v2",
+    visit: "http://cryptverse.xyz",
+    id: 2,
+  },
+  {
     title: "OpenAI (Design Mockup)",
     description:
       "Mockup of a website designed by AR Shakir. Note: No functionality within the site.",
@@ -28,16 +38,6 @@ export const projects = [
     tags: ["React", "CSS", "JSX"],
     source: "https://github.com/bycho91/GPT3-mock-website",
     visit: "http://openai-gpt3.xyz",
-    id: 2,
-  },
-  {
-    title: "Crypto Info App",
-    description:
-      "A website containing information about cryptocurrencies and the latest news. Fetches data using the Coinrank API and Bing Search API",
-    image: "/images/crypto.png",
-    tags: ["React", "CSS", "Redux", "API"],
-    source: "https://github.com/bycho91/crypto-v2",
-    visit: "http://cryptverse.xyz",
     id: 3,
   },
   {
