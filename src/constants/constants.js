@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Budgety",
     description:
-      "Full stack web app built out in a team of 3. User has access to authentication signup/login, and is able to create, read, update, and delete budgets/transactions.",
+      "Full stack web app built out in a team of 3. User has access to authentication signup/login. User is also able to create, read, update, and delete budgets/transactions.",
     image: "/images/budgety.png",
     tags: ["React", "Typescript", "Nest", "Styled Components", "React Query"],
     source: "https://github.com/bretpeters3n/seal-team-3",
